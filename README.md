@@ -1,0 +1,1 @@
+This is a simple application which helps copywriters or bloggers keep track of the length of their texts. The basic application includes a text box and a summary of the word count, character count and letter count (characters excluding spaces) for the text.
